@@ -1,3 +1,4 @@
+test
 1 idée :
 hide and seek object 
 les deux équipe cache des objets aléatoire que le jeu va leur avoir donné quand le timer finit les deux équipes s'afronte pour trouver les objets 
